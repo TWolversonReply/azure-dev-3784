@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "APP_KIND": "workflowapp",
+    "ProjectDirectoryPath": "c:\\Users\\Tom\\source\\repos\\azure-dev-3784",
+    "FUNCTIONS_WORKER_RUNTIME": "node"
+  }
+}
